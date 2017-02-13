@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Boxy Theme",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeERB",
+		"SyncedSideBar"
+	]
+}
